@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://219.142.243.163:8082/test/iTunesArtwork.png</string>
+					<string>http://219.142.243.163:8082/iTunesArtwork.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://219.142.243.163:8082/est/iTunesArtwork.png</string>
+					<string>http://219.142.243.163:8082/iTunesArtwork.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
