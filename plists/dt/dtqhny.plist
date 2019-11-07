@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://223.220.244.35:8082/Apple/ipa/DaTangOA.ipa</string>
+					<string>http://www.qh-cdt.com:8082/Apple/ipa/DaTangOA.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://223.220.244.35:8082/img/iTunesArtwork.png</string>
+					<string>http://www.qh-cdt.com:8082/img/iTunesArtwork.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://223.220.244.35:8082/img/iTunesArtwork.png</string>
+					<string>http://www.qh-cdt.com:8082/img/iTunesArtwork.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.sinosoft.qhdtgjny</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
